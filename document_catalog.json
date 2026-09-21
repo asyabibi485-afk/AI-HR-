@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "doc_id": "DOC_001",
+      "file_name": "employee_handbook_2026.pdf",
+      "title": "Company Employee Handbook 2026",
+      "category": "HR Policy",
+      "sub_category": "General Conduct",
+      "target_audience": "All Employees",
+      "jurisdiction": "Global",
+      "version": "2026.1",
+      "last_updated": "2026-01-15",
+      "author": "HR Compliance Team"
+    }
+  ]
+}

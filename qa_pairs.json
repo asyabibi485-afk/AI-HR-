@@ -1,0 +1,17 @@
+{
+  "test_cases": [
+    {
+      "qa_id": "QA_001",
+      "query": "What is the primary purpose of the employee handbook?",
+      "expected_answer": "To outline company guidelines, compliance standards, and general conduct policies.",
+      "reference_doc_id": "DOC_001",
+      "reference_chunk_ids": [
+        "DOC_001_CH_001"
+      ],
+      "tags": [
+        "general",
+        "compliance"
+      ]
+    }
+  ]
+}

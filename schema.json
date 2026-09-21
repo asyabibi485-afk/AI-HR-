@@ -1,0 +1,8 @@
+{
+  "metadata_fields": {
+    "doc_id": "String (Unique identifier for the source document)",
+    "chunk_id": "String (Unique identifier for the specific text chunk)",
+    "category": "String (e.g., Compliance, Benefits, Talent Acquisition)",
+    "security_level": "String (e.g., Public Internal, Restricted, Confidential)"
+  }
+}
